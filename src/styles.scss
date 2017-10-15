@@ -1,0 +1,7 @@
+//@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+@import '~@angular/material/theming';
+@import 'myfirst-theme.scss';
+@include mat-core();
+
+@include angular-material-theme($myfirst-theme);

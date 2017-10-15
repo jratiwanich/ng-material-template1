@@ -1,0 +1,33 @@
+/* For use in src/lib/core/theming/_palette.scss */
+$my-first-pallete: (
+    50 : #e6e9ea,
+    100 : #c0c7cb,
+    200 : #96a2a9,
+    300 : #6c7c86,
+    400 : #4d606c,
+    500 : #2d4452,
+    600 : #283e4b,
+    700 : #223541,
+    800 : #1c2d38,
+    900 : #111f28,
+    A100 : #68c0ff,
+    A200 : #35aaff,
+    A400 : #0295ff,
+    A700 : #0086e8,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #ffffff,
+        400 : #ffffff,
+        500 : #ffffff,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #ffffff,
+        A700 : #ffffff,
+    )
+);
