@@ -1,5 +1,5 @@
 @import '~@angular/material/theming';
-@import 'myfirst-pallete.scss';
+@import 'myfirst-palette.scss';
 
 $myfirst-theme-primary: mat-palette($my-first-pallete, 900, 500, 900);
 $myfirst-theme-accent: mat-palette($my-first-pallete, A200);

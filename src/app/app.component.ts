@@ -11,7 +11,7 @@ import { OverlayContainer } from '@angular/cdk/overlay';
 })
 export class AppComponent {
   @HostBinding('class') componentCssClass;
-  title = 'app';
+  title = 'Custom Material Theme';
 
  //  constructor(
  //   public overlayContainer: OverlayContainer,

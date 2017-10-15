@@ -1,4 +1,7 @@
-# NgMaterialTemplate1
+# Ng Material Template1
+This is the seed template for Material custom theme and color palette using [Angular Material](https://material.angular.io/) only.
+
+
 1) Install these:
 ```
 @angular/material
